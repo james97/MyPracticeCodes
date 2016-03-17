@@ -3,6 +3,11 @@
 # Author: Jun M
 # mail: warrior97@gmail.com
 # Created Time: Thu 17 Mar 15:55:10 2016
+
+#Description: Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
+
+#level: Easy
+
 #########################################################################
 #!/usr/bin/env python
 import random
